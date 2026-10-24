@@ -1,0 +1,4 @@
+[core]
+    remote = s3remote
+['remote "s3remote"']
+    url = s3://taller3bucket565677205731/dvc-storage
