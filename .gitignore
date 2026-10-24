@@ -38,5 +38,5 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
-.dvcignore.venv-wsl
+.venv-wsl
 .venv-wsl/
